@@ -1,0 +1,1 @@
+Please download and use lr2_data.txt for experiment 2, and tennis.txt for experiment 5
