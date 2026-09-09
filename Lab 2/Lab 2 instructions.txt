@@ -1,0 +1,4 @@
+Please note that none of these files are of my own. 
+The source of these files are from: https://certification-data.obs.cn-north-4.myhuaweicloud.com/ENG/HCIA-AI/V4.0/Dataset.zip
+from there go /Dataset/Building a Fully-Connected Neural Network from Scratch/
+You will find the rest of the files there
