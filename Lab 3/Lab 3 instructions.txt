@@ -1,0 +1,2 @@
+Both files for Lab 3 should be able to run on their own.
+There is code in the file that will download the dataset when ran
